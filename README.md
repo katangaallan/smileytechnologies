@@ -1,1 +1,1 @@
-# smileytechnologies
+# smileytech
